@@ -21,3 +21,6 @@ repo001_103 - first class!
 
 ## Credits
 [Sloganizer][1] for generating the tagline
+
+[1]: www.sloganizer.net/en
+[2]: LICENSE
