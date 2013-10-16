@@ -8,6 +8,6 @@ using namespace std;
 
 int main() {
 short int cResult = (8*2) + 7 + 1; 
-cout << cResult; 
+cout << cResult << " " << my-feature(); 
 return 0; 
 }
