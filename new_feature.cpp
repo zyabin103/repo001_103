@@ -1,4 +1,4 @@
-#include <new-feature.h>
+#include <new_feature.h>
 #include <math.h>
 
 int new_feature() {
